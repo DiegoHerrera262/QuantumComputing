@@ -1,5 +1,7 @@
 # Fundamentals Of Quantum Computing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiegoHerrera262/QuantumComputing/master)
+
 This repo contains interesting algorithms that point to key aspects of quantum computing. It also includes handwritten notes taken from Nielsen and Chuang's celebrated book on the matter. The repo discusses implementations of the following algorithms and protocols
 
 * Superdense Coding Protocol
